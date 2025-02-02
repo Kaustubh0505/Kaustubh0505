@@ -43,9 +43,9 @@
 
 ## 🚀 Projects
 
-### [📦 My Awesome Project 1](https://github.com/Kaustubh0505/Qr-code-generator)
+### [📦 My Awesome Project 1](https://kaustubh0505.github.io/Qr-code-generator/)
 You can make QR code of any text or url.
-### [📦 My Awesome Project 2](https://github.com/Kaustubh0505/Password_Generator)
+### [📦 My Awesome Project 2](https://kaustubh0505.github.io/Password_Generator/)
 You can generate Password of any length
 
 ---
