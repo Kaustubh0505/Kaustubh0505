@@ -51,11 +51,13 @@
 <h3> 🚀 Projects</h3>
 
 
-### [📦 My Project 1](weather-beta-umber-13.vercel.app/)
-<h4>You can get weather of any city</h4>
 
-### [📦 My Project 2](qr-code-generator-jade-psi.vercel.app/)
-<h4>You can make QR code of any text or URL.</h4>
+### 📦 [Weather App](https://weather-beta-umber-13.vercel.app/)
+🔹 Get real-time weather updates for any city.
+
+### 📦 [QR Code Generator](https://qr-code-generator-jade-psi.vercel.app/)
+🔹 Generate QR codes for any text or URL.
+
 
 <hr>
 <div align="center">
