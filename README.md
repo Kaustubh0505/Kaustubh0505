@@ -50,11 +50,12 @@
 
 <h3> 🚀 Projects</h3>
 
-### [📦 My Project 1](https://kaustubh0505.github.io/Qr-code-generator/)
-<h4>You can make QR code of any text or URL.</h4>
 
-### [📦 My Project 2](https://kaustubh0505.github.io/Password_Generator/)
-<h4>You can generate Password of any length.</h4>
+### [📦 My Project 1](weather-beta-umber-13.vercel.app/)
+<h4>You can get weather of any city</h4>
+
+### [📦 My Project 2](qr-code-generator-jade-psi.vercel.app/)
+<h4>You can make QR code of any text or URL.</h4>
 
 <hr>
 <div align="center">
