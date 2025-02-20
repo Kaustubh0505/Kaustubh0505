@@ -53,10 +53,10 @@
 
 
 ### 📦 [Weather App](https://weather-beta-umber-13.vercel.app/)
-🔹 Get real-time weather updates for any city.
+<h4>🔹 Get real-time weather updates for any city.</h4>
 
 ### 📦 [QR Code Generator](https://qr-code-generator-jade-psi.vercel.app/)
-🔹 Generate QR codes for any text or URL.
+<h4>🔹 Generate QR codes for any text or URL.</h4>
 
 
 <hr>
