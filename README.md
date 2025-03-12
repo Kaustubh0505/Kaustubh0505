@@ -23,7 +23,7 @@
 
 <h3 align="center"> 💻 Languages & Frameworks</h3>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,vscode,python,react,tailwind" /><br>
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,vscode,python,react,tailwind,mongodb"/> <br>
 </div>
 <br>
 <hr>
@@ -63,7 +63,6 @@
 <div align="center">
 <h3> 📅 Current Status:</h3>
 <h4>I’m currently learning Backend and Data Structures!</h4>
-<h4>Goal Fullstack developer by the end of the month.</h4>
 </div>
 
 
