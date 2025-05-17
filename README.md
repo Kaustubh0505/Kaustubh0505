@@ -23,7 +23,7 @@
 
 <h3 align="center"> 💻 Languages & Frameworks</h3>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,vscode,python,react,tailwind,mongodb"/> <br>
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,vscode,python,react,nextjs,tailwind,mongodb,figma"/> <br>
 </div>
 <br>
 <hr>
@@ -52,8 +52,8 @@
 
 
 
-### 📦 [Weather App](https://weather-beta-umber-13.vercel.app/)
-<h4>🔹 Get real-time weather updates for any city.</h4>
+### 📦 [Jarvis AI](https://jarvisai-gamma.vercel.app/)
+<h4>🔹 virtual assistant that responds to voice commands,(use on chrome).</h4>
 
 ### 📦 [QR Code Generator](https://qr-code-generator-jade-psi.vercel.app/)
 <h4>🔹 Generate QR codes for any text or URL.</h4>
