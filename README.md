@@ -23,7 +23,7 @@
 
 <h3 align="center"> 💻 Languages & Frameworks</h3>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,vscode,python,react,nextjs,tailwind,mongodb,figma"/> <br>
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,vscode,python,react,nextjs,tailwind,mongodb,express,nodejs,mysql,opencv,figma"/> <br>
 </div>
 <br>
 <hr>
